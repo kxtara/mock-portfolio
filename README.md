@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](https://raw.github.com/kxtara/profolio/main/images/mobile.png)
+![ScreenShot](https://raw.github.com/kxtara/mock-protfolio/main/images/mobile.png)
 
 ### Links
 
