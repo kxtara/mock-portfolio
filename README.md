@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [(https://kxtara.github.io/mock-profolio/)}
+- Live Site URL: [(https://kxtara.github.io/mock-portfolio/)}
 
 ## My process
 
